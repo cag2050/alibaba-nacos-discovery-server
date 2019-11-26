@@ -6,6 +6,7 @@
 Spring Cloud Version| Spring Cloud Alibaba Version | Spring Boot Version
 --- | --- | ---
 Spring Cloud Greenwich | 2.1.1.RELEASE | 2.1.X.RELEASE
+
 2.服务提供者在主类上需要添加注解：@EnableDiscoveryClient
 
 ### 参考资料
